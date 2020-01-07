@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9cbfe11f-ed1c-48a7-96ff-1c8f82c7389a" name="Default Changelist" comment="" />
+    <list default="true" id="9cbfe11f-ed1c-48a7-96ff-1c8f82c7389a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/resources/views/detailProduct.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/nav/navbar.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/nav/navbar.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,26 +26,139 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/routes/web.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+            <state relative-caret-position="119">
+              <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://D:/WEB/bakorwil/HTML/home-v12.html">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/PageController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="93" selection-start-line="6" selection-start-column="93" selection-end-line="6" selection-end-column="93" />
+            <state relative-caret-position="153">
+              <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/nav/navbar.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/WEB/bakorwil/HTML/single-product-extended.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="68" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="19" selection-end-column="68" />
+              <folding>
+                <element signature="n#style#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#33957#33962#0" expanded="true" />
+                <element signature="e#34086#34091#0" expanded="true" />
+                <element signature="e#34223#34228#0" expanded="true" />
+                <element signature="e#34363#34368#0" expanded="true" />
+                <element signature="e#34492#34497#0" expanded="true" />
+                <element signature="e#34614#34619#0" expanded="true" />
+                <element signature="e#36463#36468#0" expanded="true" />
+                <element signature="e#36588#36593#0" expanded="true" />
+                <element signature="e#36711#36716#0" expanded="true" />
+                <element signature="e#45235#45240#0" expanded="true" />
+                <element signature="e#45364#45369#0" expanded="true" />
+                <element signature="e#45501#45506#0" expanded="true" />
+                <element signature="e#45641#45646#0" expanded="true" />
+                <element signature="e#45770#45775#0" expanded="true" />
+                <element signature="e#45892#45897#0" expanded="true" />
+                <element signature="e#47741#47746#0" expanded="true" />
+                <element signature="e#47866#47871#0" expanded="true" />
+                <element signature="e#47989#47994#0" expanded="true" />
+                <element signature="e#56503#56508#0" expanded="true" />
+                <element signature="e#56632#56637#0" expanded="true" />
+                <element signature="e#56769#56774#0" expanded="true" />
+                <element signature="e#56909#56914#0" expanded="true" />
+                <element signature="e#57038#57043#0" expanded="true" />
+                <element signature="e#57160#57165#0" expanded="true" />
+                <element signature="e#59009#59014#0" expanded="true" />
+                <element signature="e#59134#59139#0" expanded="true" />
+                <element signature="e#59257#59262#0" expanded="true" />
+                <element signature="e#67758#67763#0" expanded="true" />
+                <element signature="e#67887#67892#0" expanded="true" />
+                <element signature="e#68024#68029#0" expanded="true" />
+                <element signature="e#68164#68169#0" expanded="true" />
+                <element signature="e#68293#68298#0" expanded="true" />
+                <element signature="e#68415#68420#0" expanded="true" />
+                <element signature="e#70264#70269#0" expanded="true" />
+                <element signature="e#70389#70394#0" expanded="true" />
+                <element signature="e#70512#70517#0" expanded="true" />
+                <element signature="e#72929#72934#0" expanded="true" />
+                <element signature="e#73258#73263#0" expanded="true" />
+                <element signature="e#73481#73486#0" expanded="true" />
+                <element signature="e#73686#73691#0" expanded="true" />
+                <element signature="e#74114#74119#0" expanded="true" />
+                <element signature="e#74851#74856#0" expanded="true" />
+                <element signature="e#78462#78468#0" expanded="true" />
+                <element signature="e#79566#79572#0" expanded="true" />
+                <element signature="e#91502#91507#0" expanded="true" />
+                <element signature="e#91643#91648#0" expanded="true" />
+                <element signature="e#91792#91797#0" expanded="true" />
+                <element signature="e#91944#91949#0" expanded="true" />
+                <element signature="e#92085#92090#0" expanded="true" />
+                <element signature="e#92219#92224#0" expanded="true" />
+                <element signature="e#94320#94325#0" expanded="true" />
+                <element signature="e#94457#94462#0" expanded="true" />
+                <element signature="e#94592#94597#0" expanded="true" />
+                <element signature="e#104317#104322#0" expanded="true" />
+                <element signature="e#104458#104463#0" expanded="true" />
+                <element signature="e#104607#104612#0" expanded="true" />
+                <element signature="e#104759#104764#0" expanded="true" />
+                <element signature="e#104900#104905#0" expanded="true" />
+                <element signature="e#105034#105039#0" expanded="true" />
+                <element signature="e#107135#107140#0" expanded="true" />
+                <element signature="e#107272#107277#0" expanded="true" />
+                <element signature="e#107407#107412#0" expanded="true" />
+                <element signature="e#117121#117126#0" expanded="true" />
+                <element signature="e#117262#117267#0" expanded="true" />
+                <element signature="e#117411#117416#0" expanded="true" />
+                <element signature="e#117563#117568#0" expanded="true" />
+                <element signature="e#117704#117709#0" expanded="true" />
+                <element signature="e#117838#117843#0" expanded="true" />
+                <element signature="e#119939#119944#0" expanded="true" />
+                <element signature="e#120076#120081#0" expanded="true" />
+                <element signature="e#120211#120216#0" expanded="true" />
+                <element signature="e#129912#129917#0" expanded="true" />
+                <element signature="e#130053#130058#0" expanded="true" />
+                <element signature="e#130202#130207#0" expanded="true" />
+                <element signature="e#130354#130359#0" expanded="true" />
+                <element signature="e#130495#130500#0" expanded="true" />
+                <element signature="e#130629#130634#0" expanded="true" />
+                <element signature="e#132730#132735#0" expanded="true" />
+                <element signature="e#132867#132872#0" expanded="true" />
+                <element signature="e#133002#133007#0" expanded="true" />
+                <element signature="e#290321#290327#1" expanded="true" />
+                <element signature="e#290900#290905#0" expanded="true" />
+                <element signature="e#295270#295276#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resources/views/detailProduct.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="1498" column="79" lean-forward="true" selection-start-line="1498" selection-start-column="79" selection-end-line="1498" selection-end-column="79" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/index.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="178">
-              <caret line="115" column="87" selection-start-line="115" selection-start-column="87" selection-end-line="115" selection-end-column="87" />
+            <state>
+              <caret selection-end-line="2" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -47,7 +167,7 @@
         <entry file="file://$PROJECT_DIR$/resources/lang/en/navbar.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="2" column="34" lean-forward="true" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+              <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -57,16 +177,26 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>content</find>
+      <find>60UH6150 60-Inch 4K Ultra HD Smart LED TV</find>
+      <find>Recently viewed products</find>
+      <find>Sign up to Newsletter</find>
+      <find>header</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/routes/web.php" />
         <option value="D:/WEB/bakorwil/HTML/home-v12.html" />
         <option value="$PROJECT_DIR$/resources/lang/en/navbar.php" />
-        <option value="$PROJECT_DIR$/resources/views/nav/navbar.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/index.blade.php" />
+        <option value="$PROJECT_DIR$/routes/web.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/PageController.php" />
+        <option value="$PROJECT_DIR$/resources/views/nav/navbar.blade.php" />
+        <option value="D:/WEB/bakorwil/HTML/single-product-extended.html" />
+        <option value="$PROJECT_DIR$/resources/views/detailProduct.blade.php" />
       </list>
     </option>
   </component>
@@ -161,18 +291,36 @@
     <option name="width" value="907" />
     <option name="height" value="867" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="Native" type="b2602c69:ProjectViewProjectNode" />
               <item name="Native" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Native" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Native" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Native" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Native" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Native" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Native" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+              <item name="Controllers" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Native" type="b2602c69:ProjectViewProjectNode" />
@@ -206,18 +354,27 @@
             <path>
               <item name="Native" type="b2602c69:ProjectViewProjectNode" />
               <item name="Native" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="nav" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Native" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Native" type="462c0819:PsiDirectoryNode" />
               <item name="routes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="editor.config.ad.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -263,18 +420,23 @@
       <updated>1577105871229</updated>
       <workItem from="1577105872447" duration="4597000" />
       <workItem from="1577551291388" duration="2784000" />
-      <workItem from="1577617965089" duration="6311000" />
+      <workItem from="1577617965089" duration="6911000" />
+      <workItem from="1577722391355" duration="1220000" />
+      <workItem from="1577876754026" duration="733000" />
+      <workItem from="1578145779885" duration="803000" />
+      <workItem from="1578367917326" duration="114000" />
+      <workItem from="1578385256133" duration="3161000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13692000" />
+    <option name="totallyTimeSpent" value="20323000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.110539846" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11825193" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -289,7 +451,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.17362046" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.17362046" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -305,36 +467,143 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/routes/web.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        <state relative-caret-position="119">
+          <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/PageController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://D:/WEB/bakorwil/HTML/home-v12.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="93" selection-start-line="6" selection-start-column="93" selection-end-line="6" selection-end-column="93" />
+        <state relative-caret-position="119">
+          <caret line="7" column="97" selection-start-line="7" selection-start-column="97" selection-end-line="7" selection-end-column="97" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/lang/en/navbar.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="34" lean-forward="true" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/nav/navbar.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="110" column="111" selection-start-line="110" selection-start-column="111" selection-end-line="110" selection-end-column="111" />
+        <state relative-caret-position="306">
+          <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/index.blade.php">
+    <entry file="file://D:/WEB/bakorwil/HTML/single-product-extended.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="115" column="87" selection-start-line="115" selection-start-column="87" selection-end-line="115" selection-end-column="87" />
+        <state relative-caret-position="323">
+          <caret line="19" column="68" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="19" selection-end-column="68" />
+          <folding>
+            <element signature="n#style#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#33957#33962#0" expanded="true" />
+            <element signature="e#34086#34091#0" expanded="true" />
+            <element signature="e#34223#34228#0" expanded="true" />
+            <element signature="e#34363#34368#0" expanded="true" />
+            <element signature="e#34492#34497#0" expanded="true" />
+            <element signature="e#34614#34619#0" expanded="true" />
+            <element signature="e#36463#36468#0" expanded="true" />
+            <element signature="e#36588#36593#0" expanded="true" />
+            <element signature="e#36711#36716#0" expanded="true" />
+            <element signature="e#45235#45240#0" expanded="true" />
+            <element signature="e#45364#45369#0" expanded="true" />
+            <element signature="e#45501#45506#0" expanded="true" />
+            <element signature="e#45641#45646#0" expanded="true" />
+            <element signature="e#45770#45775#0" expanded="true" />
+            <element signature="e#45892#45897#0" expanded="true" />
+            <element signature="e#47741#47746#0" expanded="true" />
+            <element signature="e#47866#47871#0" expanded="true" />
+            <element signature="e#47989#47994#0" expanded="true" />
+            <element signature="e#56503#56508#0" expanded="true" />
+            <element signature="e#56632#56637#0" expanded="true" />
+            <element signature="e#56769#56774#0" expanded="true" />
+            <element signature="e#56909#56914#0" expanded="true" />
+            <element signature="e#57038#57043#0" expanded="true" />
+            <element signature="e#57160#57165#0" expanded="true" />
+            <element signature="e#59009#59014#0" expanded="true" />
+            <element signature="e#59134#59139#0" expanded="true" />
+            <element signature="e#59257#59262#0" expanded="true" />
+            <element signature="e#67758#67763#0" expanded="true" />
+            <element signature="e#67887#67892#0" expanded="true" />
+            <element signature="e#68024#68029#0" expanded="true" />
+            <element signature="e#68164#68169#0" expanded="true" />
+            <element signature="e#68293#68298#0" expanded="true" />
+            <element signature="e#68415#68420#0" expanded="true" />
+            <element signature="e#70264#70269#0" expanded="true" />
+            <element signature="e#70389#70394#0" expanded="true" />
+            <element signature="e#70512#70517#0" expanded="true" />
+            <element signature="e#72929#72934#0" expanded="true" />
+            <element signature="e#73258#73263#0" expanded="true" />
+            <element signature="e#73481#73486#0" expanded="true" />
+            <element signature="e#73686#73691#0" expanded="true" />
+            <element signature="e#74114#74119#0" expanded="true" />
+            <element signature="e#74851#74856#0" expanded="true" />
+            <element signature="e#78462#78468#0" expanded="true" />
+            <element signature="e#79566#79572#0" expanded="true" />
+            <element signature="e#91502#91507#0" expanded="true" />
+            <element signature="e#91643#91648#0" expanded="true" />
+            <element signature="e#91792#91797#0" expanded="true" />
+            <element signature="e#91944#91949#0" expanded="true" />
+            <element signature="e#92085#92090#0" expanded="true" />
+            <element signature="e#92219#92224#0" expanded="true" />
+            <element signature="e#94320#94325#0" expanded="true" />
+            <element signature="e#94457#94462#0" expanded="true" />
+            <element signature="e#94592#94597#0" expanded="true" />
+            <element signature="e#104317#104322#0" expanded="true" />
+            <element signature="e#104458#104463#0" expanded="true" />
+            <element signature="e#104607#104612#0" expanded="true" />
+            <element signature="e#104759#104764#0" expanded="true" />
+            <element signature="e#104900#104905#0" expanded="true" />
+            <element signature="e#105034#105039#0" expanded="true" />
+            <element signature="e#107135#107140#0" expanded="true" />
+            <element signature="e#107272#107277#0" expanded="true" />
+            <element signature="e#107407#107412#0" expanded="true" />
+            <element signature="e#117121#117126#0" expanded="true" />
+            <element signature="e#117262#117267#0" expanded="true" />
+            <element signature="e#117411#117416#0" expanded="true" />
+            <element signature="e#117563#117568#0" expanded="true" />
+            <element signature="e#117704#117709#0" expanded="true" />
+            <element signature="e#117838#117843#0" expanded="true" />
+            <element signature="e#119939#119944#0" expanded="true" />
+            <element signature="e#120076#120081#0" expanded="true" />
+            <element signature="e#120211#120216#0" expanded="true" />
+            <element signature="e#129912#129917#0" expanded="true" />
+            <element signature="e#130053#130058#0" expanded="true" />
+            <element signature="e#130202#130207#0" expanded="true" />
+            <element signature="e#130354#130359#0" expanded="true" />
+            <element signature="e#130495#130500#0" expanded="true" />
+            <element signature="e#130629#130634#0" expanded="true" />
+            <element signature="e#132730#132735#0" expanded="true" />
+            <element signature="e#132867#132872#0" expanded="true" />
+            <element signature="e#133002#133007#0" expanded="true" />
+            <element signature="e#290321#290327#1" expanded="true" />
+            <element signature="e#290900#290905#0" expanded="true" />
+            <element signature="e#295270#295276#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/detailProduct.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="1498" column="79" lean-forward="true" selection-start-line="1498" selection-start-column="79" selection-end-line="1498" selection-end-column="79" />
         </state>
       </provider>
     </entry>

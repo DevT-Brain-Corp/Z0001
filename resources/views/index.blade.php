@@ -588,10 +588,10 @@
                         <section class="section-products-carousel-tabs ">
                             <div class="section-products-carousel-tabs-wrap">
                                 <header class="section-header">
-                                    <h2 class="section-title">Save on Clothing for Her</h2>
+                                    <h2 class="section-title">Interior yang mungkin anda suka</h2>
                                     <ul role="tablist" class="nav justify-content-end">
                                         <li class="nav-item"><a class="nav-link active" href="#tab-59f89f0a815100"
-                                                                data-toggle="tab">Bestsellers</a></li>
+                                                                data-toggle="tab">Terlaris</a></li>
                                         <li class="nav-item"><a class="nav-link " href="#tab-59f89f0a815101"
                                                                 data-toggle="tab">Dresses</a></li>
                                         <li class="nav-item"><a class="nav-link " href="#tab-59f89f0a815102"
